@@ -1,4 +1,4 @@
-# This workflow will build and push a web application to an Azure Static Web App when you change your code.
+# This workflow will build and push a web application to an Azure Static Web App when you change your code.#
 #
 # This workflow assumes you have already created the target Azure Static Web App.
 # For instructions see https://docs.microsoft.com/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript
